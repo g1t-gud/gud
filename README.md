@@ -1,1 +1,1 @@
-# gud
+git gud skrub
